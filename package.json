@@ -1,0 +1,19 @@
+{
+  "name": "asynjsclanding",
+  "version": "1.0.0",
+  "description": "proyecto de landing page usando solo html css y javascript",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
